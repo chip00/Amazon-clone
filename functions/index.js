@@ -1,7 +1,7 @@
 const functions = require("firebase-functions");
 const express = require("express");
 const cors = require("cors");
-const stripe = require("stripe")("sk_test_51L82r9HuFTJR44r2Eo7mEWknVKQ6EJvIkuQilUW8wi5dEv1zNMwT0kV1aRykaws2lK8vXA28OZ6yhR17eyccFckL00m8NIXFnn");
+const stripe = require("stripe")("sk_test_51L82r9HuFTJR44r2sXtJ5vKBqcstjJFqbNQN9AHFNUbSGqEwvsLiwri1h2iVv8dJAFwLU5Fel8ZLqJ1o0z4W5fbw00rsDARY4p");
 
 
        // cd to functions not only amazon-clone
